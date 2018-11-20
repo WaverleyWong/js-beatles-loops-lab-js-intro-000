@@ -1,5 +1,6 @@
 function theBeatlesPlay(musicians, instruments) {
-  let i === 0
+  var array = {}
+  
 }
 
 
